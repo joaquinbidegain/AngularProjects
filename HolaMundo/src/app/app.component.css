@@ -1,0 +1,21 @@
+#dias{
+    background-color: rgb(112, 112, 160);
+}
+
+table th{
+    width: 10em;
+}
+
+#meses{
+    background-color: brown;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#cabezal{
+    border: rgb(233, 14, 14);
+    text-align: center;
+    border-color: coral;
+}
+
